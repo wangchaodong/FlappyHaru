@@ -92,7 +92,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         physicsWorld.contactDelegate = self
         addChild(worldNode)
         
-        //        switchtoTeach()
+//        switchtoTeach()
         switchtoMainmenu()
         
     }
